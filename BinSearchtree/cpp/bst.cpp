@@ -100,5 +100,5 @@ int main () {
 	cout<<"FOUND "<<ans<<"\n";
 	
 	inorder(bst);
-	cout<<"\n";i
+	cout<<"\n";
 }
